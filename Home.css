@@ -1,0 +1,146 @@
+body{
+    background: url('black-frame-with-copy-space-top-view.jpg');
+    background-size:contain;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: larger;
+}
+a:hover{
+    color: rgb(246, 184, 68);
+}
+
+li{
+     display: inline-block;
+     margin-top: 25px;
+     margin-left: 80px;
+}
+
+#navbar{
+    margin-top: 50px;
+    margin-left: 520px;
+    background-color: #0f1111;
+    height: 80px;
+    border-radius: 50px;
+    width: 990px;
+    margin-bottom: 100px;
+}
+
+#name{
+    margin-top: 50px;
+    background: #0d2d86;
+    height: 110px;
+    border-radius: 50px;
+    color: aliceblue;
+    padding-left: 60px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    width: 400px;
+    margin-bottom: 100px;
+}
+
+#photo
+{
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 450px;
+    height: 450px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: larger;
+}
+
+a:hover {
+    color: orange;
+}
+
+li {
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+#navbar {
+    margin-left: 520px;
+    background-color: #0f1111;
+    height: 80px;
+    border-radius: 50px;
+    width: 990px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#name {
+    margin-top: 30px;
+    background: #0d2d86;
+    height: 110px;
+    border-radius: 50px;
+    color: aliceblue;
+    padding-left: 60px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    width: 400px;
+    box-shadow: 0 0 10px rgb(205, 243, 93);
+}
+
+#photo {
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 450px;
+    height: 450px;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #000;
+    padding: 20px;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(240, 243, 95, 0.953);
+}
+
+#footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.social-link {
+    margin-bottom: 10px;
+}
+
+.social-link a:hover {
+    color: aqua;
+}
+
+#main-content {
+    display: flex;
+    margin-top: 20px;
+}
+
+#photo {
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 450px;
+    height: 450px;
+}
+
+#about-me {
+    margin-left: 20px;
+    margin-bottom: 300px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    padding: 50px 50px 50px 50px;
+    width: 500px;
+    box-shadow: 0 0 10px rgba(240, 243, 95, 0.953);
+}
+#about-me:hover{
+    background-color: rgb(246, 250, 202);
+    transition-duration: 1.5s;
+}
